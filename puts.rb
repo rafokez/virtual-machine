@@ -56,16 +56,28 @@ if escolha_conversa.to_i < 2
     puts    "  Rei Arthur: Guerras, traições entre grandes nomes e o principal: A caça do artefato mágico nas colinas de Zarkvell..."
     puts "\e[33m╚──────¤◎¤──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╝\e[0m"
     sleep(2.5)
-    puts "\e[35mO rei termina de puxar os documentos da gaveta e os põe sobre a grande mesa de madeira.\e[0m"
+    puts "\e[35mEle separa os papéis sobre a mesa e mostra um a um.\e[0m"
+    sleep(2.5)
 else
     puts "❯ Problemas? Mas... com quais nações?"
+    sleep(2)
     puts "\e[35m ｢ ✾  ｣ O lord pausa sua busca na gaveta e olha para você com certa confusão. \e[0m"
+    sleep(2.5)
     puts "\e[33m╔──────¤◎¤──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╗\e[0m"
     puts    "  Rei Arthur: O que quer dizer com isso, #{nome}? Não percebe pelas guerras e mortes que estão acontecendo atualmente?"
     puts "\e[33m╚──────¤◎¤──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╝\e[0m"
-    sleep(1)
-    puts "\e[35m ｢ ✾  ｣ ... \e[0m"
-    sleep(1)
+    sleep(4)
+    puts "\e[35mEle separa os papéis sobre a mesa e mostra um a um.\e[0m"
+    sleep(3.5)
 end
+
+puts "\e[33m╔──────¤◎¤──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╗\e[0m"
+puts    "  Rei Arthur: Vê? Todos estes são acordos quebrados, que, por outras nações já foram rasgados e queimados."
+puts "\e[33m╚──────¤◎¤──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╝\e[0m"
+sleep(4)
+puts "\e[35mO rei suspira e coloca os papéis à direita da mesa.\e[0m"
+
+
+
 
 
