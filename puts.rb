@@ -42,7 +42,8 @@ sleep(3)
 puts "\e[33m╔──────¤◎¤──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╗\e[0m"
 puts    "  Rei Arthur: Muitas coisas andam acontecendo no reino de Nostradamus. Estamos com problemas graves com outras nações..."
 puts "\e[33m╚──────¤◎¤──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╝\e[0m"
-puts "❯ O Rei abre a gaveta de sua mesa com sua chave imperial, e parece buscar alguns documentos para mostrá-lo."
+puts "\e[35m ❯ O Rei abre a gaveta de sua mesa com sua chave imperial, e parece buscar alguns documentos para mostrá-lo. \e[0m"
+puts "\e[31m ❯ Pergunte ao rei: \e[0m"  
 puts "● 1. Que tipo de problemas?"
 puts "● 2. Quais nações?"
 escolha_conversa = gets.chomp
