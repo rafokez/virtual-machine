@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="Nostradamus.jpg" alt="Imagem Nostradamus">
 
 > Nostradamus, um RPG de história linear onde você é um novato com muito potencial e deve ajudar Rei Arthur e seu reino na busca
 > para o artefato mágico nas Colinas de Zarkvell, outro reino distante. Será que você conseguirá realizar este feito e se tornar um
